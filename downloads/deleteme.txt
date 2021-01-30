@@ -1,0 +1,2 @@
+This is a file i created in the downloads folder because github wont let me create an empty folder in a repo
+When cloning this repo, delete this file
