@@ -1,8 +1,9 @@
 # comment-sandwich
 A python script that will turn reddit comments into a sandwich image and reply back the image to them
 
-## Installation and Setup(I may make this more detailed later on)
-(Have python installed (obviously))
+### Installation and Setup(I may make this more detailed later on)
+
+You need (Have python installed (obviously))
 1. clone this repo
 2. pip install the requirements
 3. Go on the reddit API and create a new API (watch a youtube tutorial if not sure)
