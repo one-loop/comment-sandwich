@@ -15,7 +15,7 @@ def login():
         client_secret='*******************',
         username='YOURUSERNAME',
         password='YOURPASSWORD',
-        user_agent='USERAGENT')
+        user_agent='USERAGENT - This can be any words you want e.g. u/your-username test script')
     return reddit
 
 def make_submission():
